@@ -1,4 +1,3 @@
 env_clip
 __pycache__
-migrations
-db.sqlite3
+
